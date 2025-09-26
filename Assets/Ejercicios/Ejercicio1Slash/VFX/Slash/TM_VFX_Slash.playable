@@ -1280,7 +1280,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: GameObject
+    m_DisplayName: P_Particles
   - m_Version: 1
     m_Start: 2.15
     m_ClipIn: 0
@@ -1349,7 +1349,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: GameObject
+    m_DisplayName: P_Particles
   - m_Version: 1
     m_Start: 3.3
     m_ClipIn: 0
@@ -1418,7 +1418,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: GameObject
+    m_DisplayName: P_Particles
   m_Markers:
     m_Objects: []
 --- !u!114 &7934164916415466680
