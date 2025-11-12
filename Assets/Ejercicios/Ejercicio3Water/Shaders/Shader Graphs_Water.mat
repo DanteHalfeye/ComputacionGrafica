@@ -58,7 +58,7 @@ Material:
     - _DstBlend: 10
     - _DstBlendAlpha: 10
     - _Foam_Amount: 1.7
-    - _IOR: -1.13
+    - _IOR: 0.000001
     - _Metallic: 1
     - _QueueControl: 0
     - _QueueOffset: 0
@@ -78,7 +78,7 @@ Material:
     - _oamCuttoff: 1.7
     m_Colors:
     - _Base_Color: {r: 0, g: 1, b: 0.97285056, a: 1}
-    - _CustomLightDirection: {r: 0.21, g: 0.54, b: 0.65, a: 0}
+    - _CustomLightDirection: {r: -0.24, g: 0.54, b: 0.65, a: 0}
     - _DeepWater: {r: 0.3039769, g: 0.07075461, b: 1, a: 1}
     - _FoamColor: {r: 1, g: 1, b: 1, a: 0.6745098}
     - _LightDirection: {r: 0, g: 0, b: 0, a: 0}

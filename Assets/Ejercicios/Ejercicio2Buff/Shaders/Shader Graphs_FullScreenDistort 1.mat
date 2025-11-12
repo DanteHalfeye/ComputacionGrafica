@@ -59,7 +59,7 @@ Material:
     - _Fullscreen_SrcColorBlend: 5
     - _ShockWaveStrenghth: -0.1
     - _Size: 0.05
-    - _WaveDistanceFromCenter: -0.1
+    - _WaveDistanceFromCenter: 1
     m_Colors:
     - _Color: {r: 1, g: 0.8349056, b: 0.8514151, a: 0.1764706}
     - _Color_1: {r: 1, g: 1, b: 1, a: 0}

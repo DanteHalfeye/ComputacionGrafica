@@ -663,6 +663,20 @@
             },
             "m_InputSlot": {
                 "m_Node": {
+                    "m_Id": "9440381c70574b66800c25eb7204cd85"
+                },
+                "m_SlotId": 0
+            }
+        },
+        {
+            "m_OutputSlot": {
+                "m_Node": {
+                    "m_Id": "23d2d29a97cc46aa859285ae452a6696"
+                },
+                "m_SlotId": 1
+            },
+            "m_InputSlot": {
+                "m_Node": {
                     "m_Id": "af24cdb42c4f496e8b9dd7530f4d122d"
                 },
                 "m_SlotId": 1
@@ -902,20 +916,6 @@
             "m_InputSlot": {
                 "m_Node": {
                     "m_Id": "ebd2fc95f3ff4b7ca2067ce037e4eea1"
-                },
-                "m_SlotId": 0
-            }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
-                    "m_Id": "5e6eeb6ac62545a58dcf5b61926036ce"
-                },
-                "m_SlotId": 2
-            },
-            "m_InputSlot": {
-                "m_Node": {
-                    "m_Id": "9440381c70574b66800c25eb7204cd85"
                 },
                 "m_SlotId": 0
             }
@@ -3436,7 +3436,7 @@
     "m_Title": "Depth Foam",
     "m_Position": {
         "x": -6001.0,
-        "y": 440.9999084472656
+        "y": 441.0
     }
 }
 
@@ -6956,8 +6956,8 @@
     "m_ObjectId": "65e701cd92f9495d9ec55d9641c853c6",
     "m_Title": "SSR",
     "m_Position": {
-        "x": -3077.999755859375,
-        "y": 1155.9998779296875
+        "x": -3078.0,
+        "y": 1156.0
     }
 }
 
@@ -7367,7 +7367,7 @@
     "m_Title": "Foam",
     "m_Position": {
         "x": -5131.0,
-        "y": -196.00009155273438
+        "y": -196.0
     }
 }
 
@@ -11419,7 +11419,7 @@
     "m_Title": "Color",
     "m_Position": {
         "x": -5129.0,
-        "y": -1836.0001220703125
+        "y": -1836.0
     }
 }
 
@@ -13231,7 +13231,7 @@
     "m_Title": "Displasement",
     "m_Position": {
         "x": -1919.0,
-        "y": -2230.000244140625
+        "y": -2230.0
     }
 }
 
@@ -13485,7 +13485,7 @@
     "m_Title": "Cubemap Reflections",
     "m_Position": {
         "x": -2765.0,
-        "y": 680.9996948242188
+        "y": 681.0
     }
 }
 
