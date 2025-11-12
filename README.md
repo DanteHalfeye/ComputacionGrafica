@@ -12,3 +12,7 @@ https://github.com/user-attachments/assets/25aaaad2-5d59-4485-a0fd-488d214b382f
 
 https://github.com/user-attachments/assets/368a5d07-c3c0-478e-8903-37a2b568def3
 
+## Actividad 3
+
+https://github.com/user-attachments/assets/76288570-c649-42ba-9f96-26bd7d1f7b62
+
